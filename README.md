@@ -10,8 +10,8 @@ To make it work you’ll need this material :
 * MiFare Classic (13.56MHz RFID/NFC) Card www.adafruit.com/product/359
 
 Software :
-* arduino IDE : arduino.cc/en/main/software
+* arduino IDE : www.arduino.cc/en/main/software
 * arduino libraries for NFC : 
-	1. github.com/don/NDEF
-	2. github.com/Seeed-Studio/PN532
+	* https://github.com/don/NDEF
+	* https://github.com/Seeed-Studio/PN532
 
