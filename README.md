@@ -7,11 +7,11 @@ This Arduino firmware is part of a student project.
 To make it work you’ll need this material :
 * An arduino board with ethernet shield or an arduino ethernet
 * An Adafruit PN532 NFC/RFID Controller Shield www.adafruit.com/product/789
-* MiFare Classic (13.56MHz RFID/NFC) Card http://www.adafruit.com/product/359
+* MiFare Classic (13.56MHz RFID/NFC) Card www.adafruit.com/product/359
 
 Software :
-* arduino IDE : http://arduino.cc/en/main/software
+* arduino IDE : arduino.cc/en/main/software
 * arduino libraries for NFC : 
-1. https://github.com/don/NDEF
-2. https://github.com/Seeed-Studio/PN532
+	1. github.com/don/NDEF
+	2. github.com/Seeed-Studio/PN532
 
