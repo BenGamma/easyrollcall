@@ -2,7 +2,10 @@ Easy Roll Call
 =============
 
 This Arduino firmware is part of a student project.
- It is a terminal scanning student NFC cards to easily computerize the roll call.
+ It is an arduino based terminal, scanning student NFC cards to easily computerize the roll call.
+
+What it does :
+* Sending a http GET request to a server depending on the NFC's id of the scanned card.
 
 To make it work you’ll need this material :
 * An arduino board with ethernet shield or an arduino ethernet
@@ -15,3 +18,5 @@ Software :
 	* https://github.com/don/NDEF
 	* https://github.com/Seeed-Studio/PN532
 
+Code :
+* Modify the server's name you want to send request to in easyrollcall.ino
