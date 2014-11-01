@@ -19,4 +19,4 @@ Software :
 	* https://github.com/Seeed-Studio/PN532
 
 Code :
-* Modify the server's name you want to send request to in easyrollcall.ino
+* Modify the server's name you want to send request to and the value of the answer your server is sending back, in easyrollcall.ino
